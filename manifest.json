@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "SESC",
+  "version": "1.0",
+  
+  "icons": {
+    "128": "128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "https://lycreg.urfu.ru/" ],
+      "js": [ "main.js" ]
+    }
+  ],
+  "permissions": [
+    "https://lycreg.urfu.ru/"
+  ]	
+}
