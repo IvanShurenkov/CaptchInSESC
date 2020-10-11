@@ -34,6 +34,6 @@ opera://extensions/
 4. Загрузить распакованное дополнение -> выбрать папку с распакованным расширением
 5. Готово
 
-В FireFox: https://addons.mozilla.org/ru/firefox/addon/sesc/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Установка расширения в FireFox: https://addons.mozilla.org/ru/firefox/addon/sesc/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
 Для остальных браузеров не знаю.
